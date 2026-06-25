@@ -9,7 +9,7 @@ A production-grade credit risk decisioning system that transforms raw applicant 
 
 Try RiskLens here: **[https://risklens1.streamlit.app](https://risklens1.streamlit.app/)**
 
-![Streamlit Home Screen](assets/streamlit_home.png)
+![Streamlit Home Screen](assets/images/streamlit_home.png)
 
 ---
 
@@ -73,7 +73,7 @@ At threshold 0.50, Gradient Boosting achieves 88.6% accuracy — but catches onl
 
 ### The Threshold That Actually Works
 
-![Threshold Optimization Plot](assets/threshold.png)
+![Threshold Optimization Plot](assets/images/threshold.png)
 
 | Threshold | Recall | Precision | Total Business Cost |
 |---|---|---|---|
@@ -144,7 +144,7 @@ Random Forest and Gradient Boosting feature importances measure how often a feat
 
 ## Explainability Output — Per Applicant
 
-![SHAP Waterfall](assets/shap.png)
+![SHAP Waterfall](assets/images/shap.png)
 
 For every applicant assessed, RiskLens produces a full decision report:
 
