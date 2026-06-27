@@ -259,4 +259,15 @@ streamlit run apps/streamlit_app.py
 
 ---
 
+
+## Author
+
+**Siddhi Mane** — Artificial Intelligence and Machine Learning Student
+
+[![GitHub](https://img.shields.io/badge/GitHub-siddhimane8-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddhimane8)
+
+&nbsp;
+
+---
+
 *Built as part of a flagship AI/ML portfolio targeting production-grade, explainable machine learning systems.*
